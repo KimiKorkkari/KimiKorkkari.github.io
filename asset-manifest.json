@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c3e6405.css",
+    "main.css": "/static/css/main.110c0a90.css",
     "main.js": "/static/js/main.bc6fc790.js",
     "static/js/787.135f30fa.chunk.js": "/static/js/787.135f30fa.chunk.js",
     "static/media/kielivisa.mp4": "/static/media/kielivisa.51d3a1dd2fc55c6c2b18.mp4",
@@ -8,12 +8,12 @@
     "static/media/Face.jpg": "/static/media/Face.84961705c6cb837fd3f9.jpg",
     "static/media/Quiz.PNG": "/static/media/Quiz.0e02c0780807f5e147a7.PNG",
     "index.html": "/index.html",
-    "main.4c3e6405.css.map": "/static/css/main.4c3e6405.css.map",
+    "main.110c0a90.css.map": "/static/css/main.110c0a90.css.map",
     "main.bc6fc790.js.map": "/static/js/main.bc6fc790.js.map",
     "787.135f30fa.chunk.js.map": "/static/js/787.135f30fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c3e6405.css",
+    "static/css/main.110c0a90.css",
     "static/js/main.bc6fc790.js"
   ]
 }
